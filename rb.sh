@@ -1,0 +1,1 @@
+for i in {0..3}; do osascript bg.scpt "rb.jpg" $i; done
